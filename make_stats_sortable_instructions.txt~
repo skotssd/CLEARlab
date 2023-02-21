@@ -1,0 +1,9 @@
+put this in the header
+
+    <script src="sorttable.js"></script>
+
+and put
+
+      <table class="sortable">
+
+above <tbody>

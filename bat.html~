@@ -1,0 +1,495 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	    <script src="sorttable.js"></script>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<title></title>
+	<meta name="generator" content="LibreOffice 4.2.8.2 (Linux)">
+	<meta name="created" content="0;0">
+	<meta name="changed" content="20150605;80059360283858">
+	
+	<style type="text/css"><!-- 
+		body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Calibri"; font-size:x-small }
+		 -->
+	</style>
+	
+</head>
+
+<body text="#000000">
+<hr>
+	<p><center>
+		<h1>Overview</h1>
+		<A HREF="#table0">Batting</A><br>
+		<A HREF="#table1">Pitching</A><br>
+		
+	</center></p>
+<hr>
+<A NAME="table0"><h1>Sheet 1: <em>Batting</em></h1></A>
+<table cellspacing="0" border="0">
+   <table class="sortable">
+	<colgroup width="65"></colgroup>
+	<colgroup width="168"></colgroup>
+	<colgroup span="23" width="65"></colgroup>
+	<tr>
+		<td height="21" align="center" bgcolor="#000000"><b><font color="#FFFFFF">#</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">Name</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">G</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">PA</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">AB</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">R</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">H</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">1B</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">2B</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">3B</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">HR</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">BB</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">RBI</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">Kc</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">Ks</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">SO</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">HBP</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">SB</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">CS</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">PK</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">OBP</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">SLG</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">OPS</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">AVG</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF"><br></font></b></td>
+	</tr>
+	<tr>
+		<td height="21" align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="left"><font color="#000000">Subastian </font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="10" sdnum="4105;"><font color="#000000">10</font></td>
+		<td align="center" sdval="8" sdnum="4105;"><font color="#000000">8</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="5" sdnum="4105;"><font color="#000000">5</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="5" sdnum="4105;"><font color="#000000">5</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0.4" sdnum="4105;0;0.000"><font color="#000000">0.400</font></td>
+		<td align="center" sdval="0.375" sdnum="4105;0;0.000"><font color="#000000">0.375</font></td>
+		<td align="center" sdval="0.775" sdnum="4105;0;0.000"><font color="#000000">0.775</font></td>
+		<td align="center" sdval="0.25" sdnum="4105;0;0.000"><font color="#000000">0.250</font></td>
+		<td align="center" sdnum="4105;0;0.000"><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="21" align="center" sdval="8" sdnum="4105;"><font color="#000000">8</font></td>
+		<td align="left"><font color="#000000">Tristen </font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="8" sdnum="4105;"><font color="#000000">8</font></td>
+		<td align="center" sdval="8" sdnum="4105;"><font color="#000000">8</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0.25" sdnum="4105;0;0.000"><font color="#000000">0.250</font></td>
+		<td align="center" sdval="0.25" sdnum="4105;0;0.000"><font color="#000000">0.250</font></td>
+		<td align="center" sdval="0.5" sdnum="4105;0;0.000"><font color="#000000">0.500</font></td>
+		<td align="center" sdval="0.25" sdnum="4105;0;0.000"><font color="#000000">0.250</font></td>
+		<td align="center" sdnum="4105;0;0.000"><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="21" align="center" sdval="12" sdnum="4105;"><font color="#000000">12</font></td>
+		<td align="left"><font color="#000000">Justin </font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="5" sdnum="4105;"><font color="#000000">5</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0.4" sdnum="4105;0;0.000"><font color="#000000">0.400</font></td>
+		<td align="center" sdval="0.25" sdnum="4105;0;0.000"><font color="#000000">0.250</font></td>
+		<td align="center" sdval="0.65" sdnum="4105;0;0.000"><font color="#000000">0.650</font></td>
+		<td align="center" sdval="0.25" sdnum="4105;0;0.000"><font color="#000000">0.250</font></td>
+		<td align="center" sdnum="4105;0;0.000"><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="21" align="center" sdval="7" sdnum="4105;"><font color="#000000">7</font></td>
+		<td align="left"><font color="#000000">Sam Smith</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="9" sdnum="4105;"><font color="#000000">9</font></td>
+		<td align="center" sdval="5" sdnum="4105;"><font color="#000000">5</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0.556" sdnum="4105;0;0.000"><font color="#000000">0.556</font></td>
+		<td align="center" sdval="0.2" sdnum="4105;0;0.000"><font color="#000000">0.200</font></td>
+		<td align="center" sdval="0.756" sdnum="4105;0;0.000"><font color="#000000">0.756</font></td>
+		<td align="center" sdval="0.2" sdnum="4105;0;0.000"><font color="#000000">0.200</font></td>
+		<td align="center" sdnum="4105;0;0.000"><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="21" align="center" sdval="9" sdnum="4105;"><font color="#000000">9</font></td>
+		<td align="left"><font color="#000000">Antonio </font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="9" sdnum="4105;"><font color="#000000">9</font></td>
+		<td align="center" sdval="5" sdnum="4105;"><font color="#000000">5</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="8" sdnum="4105;"><font color="#000000">8</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0.556" sdnum="4105;0;0.000"><font color="#000000">0.556</font></td>
+		<td align="center" sdval="0.6" sdnum="4105;0;0.000"><font color="#000000">0.600</font></td>
+		<td align="center" sdval="1.156" sdnum="4105;0;0.000"><font color="#000000">1.156</font></td>
+		<td align="center" sdval="0.2" sdnum="4105;0;0.000"><font color="#000000">0.200</font></td>
+		<td align="center" sdnum="4105;0;0.000"><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="21" align="center" sdval="6" sdnum="4105;"><font color="#000000">6</font></td>
+		<td align="left"><font color="#000000">Luke </font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="9" sdnum="4105;"><font color="#000000">9</font></td>
+		<td align="center" sdval="9" sdnum="4105;"><font color="#000000">9</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0.111" sdnum="4105;0;0.000"><font color="#000000">0.111</font></td>
+		<td align="center" sdval="0.111" sdnum="4105;0;0.000"><font color="#000000">0.111</font></td>
+		<td align="center" sdval="0.222" sdnum="4105;0;0.000"><font color="#000000">0.222</font></td>
+		<td align="center" sdval="0.111" sdnum="4105;0;0.000"><font color="#000000">0.111</font></td>
+		<td align="center" sdnum="4105;0;0.000"><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="21" align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="left"><font color="#000000">Jerimiah </font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="10" sdnum="4105;"><font color="#000000">10</font></td>
+		<td align="center" sdval="9" sdnum="4105;"><font color="#000000">9</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="6" sdnum="4105;"><font color="#000000">6</font></td>
+		<td align="center" sdval="7" sdnum="4105;"><font color="#000000">7</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0.2" sdnum="4105;0;0.000"><font color="#000000">0.200</font></td>
+		<td align="center" sdval="0.111" sdnum="4105;0;0.000"><font color="#000000">0.111</font></td>
+		<td align="center" sdval="0.311" sdnum="4105;0;0.000"><font color="#000000">0.311</font></td>
+		<td align="center" sdval="0.111" sdnum="4105;0;0.000"><font color="#000000">0.111</font></td>
+		<td align="center" sdnum="4105;0;0.000"><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="21" align="center" sdval="11" sdnum="4105;"><font color="#000000">11</font></td>
+		<td align="left"><font color="#000000">Aidan </font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="7" sdnum="4105;"><font color="#000000">7</font></td>
+		<td align="center" sdval="7" sdnum="4105;"><font color="#000000">7</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;0;0.000"><font color="#000000">0.000</font></td>
+		<td align="center" sdval="0" sdnum="4105;0;0.000"><font color="#000000">0.000</font></td>
+		<td align="center" sdval="0" sdnum="4105;0;0.000"><font color="#000000">0.000</font></td>
+		<td align="center" sdval="0" sdnum="4105;0;0.000"><font color="#000000">0.000</font></td>
+		<td align="center" sdnum="4105;0;0.000"><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="21" align="center" sdval="10" sdnum="4105;"><font color="#000000">10</font></td>
+		<td align="left"><font color="#000000">Jacob </font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="9" sdnum="4105;"><font color="#000000">9</font></td>
+		<td align="center" sdval="6" sdnum="4105;"><font color="#000000">6</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0.333" sdnum="4105;0;0.000"><font color="#000000">0.333</font></td>
+		<td align="center" sdval="0" sdnum="4105;0;0.000"><font color="#000000">0.000</font></td>
+		<td align="center" sdval="0.333" sdnum="4105;0;0.000"><font color="#000000">0.333</font></td>
+		<td align="center" sdval="0" sdnum="4105;0;0.000"><font color="#000000">0.000</font></td>
+		<td align="center" sdnum="4105;0;0.000"><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="21" align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="left"><font color="#000000">Dion </font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="5" sdnum="4105;"><font color="#000000">5</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0.6" sdnum="4105;0;0.000"><font color="#000000">0.600</font></td>
+		<td align="center" sdval="0" sdnum="4105;0;0.000"><font color="#000000">0.000</font></td>
+		<td align="center" sdval="0.6" sdnum="4105;0;0.000"><font color="#000000">0.600</font></td>
+		<td align="center" sdval="0" sdnum="4105;0;0.000"><font color="#000000">0.000</font></td>
+		<td align="center" sdnum="4105;0;0.000"><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="21" align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="left"><font color="#000000">Jake </font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;0;0.000"><font color="#000000">1.000</font></td>
+		<td align="center" sdval="0" sdnum="4105;0;0.000"><font color="#000000">0.000</font></td>
+		<td align="center" sdval="1" sdnum="4105;0;0.000"><font color="#000000">1.000</font></td>
+		<td align="center" sdval="0" sdnum="4105;0;0.000"><font color="#000000">0.000</font></td>
+		<td align="center" sdnum="4105;0;0.000"><font color="#000000"><br></font></td>
+	</tr>
+</table>
+<!-- ************************************************************************** -->
+<hr>
+<A NAME="table1"><h1>Sheet 2: <em>Pitching</em></h1></A>
+<table cellspacing="0" border="0">
+	<colgroup width="65"></colgroup>
+	<colgroup width="168"></colgroup>
+	<colgroup span="21" width="65"></colgroup>
+	<tr>
+		<td height="17" align="center" bgcolor="#000000"><b><font color="#FFFFFF">#</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">Name</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">G</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">IP</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">R</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">RA</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">ER</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">ERA</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">K</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">H</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">BB</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">K/BB</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">K/GI</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">BB/GI</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">H/GI</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">HB</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">BK</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">WP</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">WHIP</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">OBP</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">BAA</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">Kc</font></b></td>
+		<td align="center" bgcolor="#000000"><b><font color="#FFFFFF">Ks</font></b></td>
+	</tr>
+	<tr>
+		<td height="17" align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="left"><font color="#000000">Subastian </font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="6" sdnum="4105;0;0.00"><font color="#000000">6.00</font></td>
+		<td align="center" sdval="9" sdnum="4105;"><font color="#000000">9</font></td>
+		<td align="center" sdval="1.5" sdnum="4105;0;0.00"><font color="#000000">1.50</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="4.67" sdnum="4105;0;0.00"><font color="#000000">4.67</font></td>
+		<td align="center" sdval="13" sdnum="4105;"><font color="#000000">13</font></td>
+		<td align="center" sdval="6" sdnum="4105;"><font color="#000000">6</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="3.25" sdnum="4105;0;0.00"><font color="#000000">3.25</font></td>
+		<td align="center" sdval="15.17" sdnum="4105;0;0.00"><font color="#000000">15.17</font></td>
+		<td align="center" sdval="4.67" sdnum="4105;0;0.00"><font color="#000000">4.67</font></td>
+		<td align="center" sdval="7" sdnum="4105;0;0.00"><font color="#000000">7.00</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="1.667" sdnum="4105;0;0.000"><font color="#000000">1.667</font></td>
+		<td align="center" sdval="0.294" sdnum="4105;0;0.000"><font color="#000000">0.294</font></td>
+		<td align="center" sdval="0.2" sdnum="4105;0;0.000"><font color="#000000">0.200</font></td>
+		<td align="center" sdval="6" sdnum="4105;"><font color="#000000">6</font></td>
+		<td align="center" sdval="7" sdnum="4105;"><font color="#000000">7</font></td>
+	</tr>
+	<tr>
+		<td height="17" align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="left"><font color="#000000">Jerimiah </font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="3.67" sdnum="4105;0;0.00"><font color="#000000">3.67</font></td>
+		<td align="center" sdval="6" sdnum="4105;"><font color="#000000">6</font></td>
+		<td align="center" sdval="1.64" sdnum="4105;0;0.00"><font color="#000000">1.64</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="5.73" sdnum="4105;0;0.00"><font color="#000000">5.73</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="11" sdnum="4105;"><font color="#000000">11</font></td>
+		<td align="center" sdval="0.36" sdnum="4105;0;0.00"><font color="#000000">0.36</font></td>
+		<td align="center" sdval="7.64" sdnum="4105;0;0.00"><font color="#000000">7.64</font></td>
+		<td align="center" sdval="21" sdnum="4105;0;0.00"><font color="#000000">21.00</font></td>
+		<td align="center" sdval="1.91" sdnum="4105;0;0.00"><font color="#000000">1.91</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="3.273" sdnum="4105;0;0.000"><font color="#000000">3.273</font></td>
+		<td align="center" sdval="0.571" sdnum="4105;0;0.000"><font color="#000000">0.571</font></td>
+		<td align="center" sdval="0.1" sdnum="4105;0;0.000"><font color="#000000">0.100</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+	</tr>
+	<tr>
+		<td height="17" align="center" sdval="6" sdnum="4105;"><font color="#000000">6</font></td>
+		<td align="left"><font color="#000000">Luke </font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="4.33" sdnum="4105;0;0.00"><font color="#000000">4.33</font></td>
+		<td align="center" sdval="8" sdnum="4105;"><font color="#000000">8</font></td>
+		<td align="center" sdval="1.85" sdnum="4105;0;0.00"><font color="#000000">1.85</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="6.46" sdnum="4105;0;0.00"><font color="#000000">6.46</font></td>
+		<td align="center" sdval="8" sdnum="4105;"><font color="#000000">8</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="2.67" sdnum="4105;0;0.00"><font color="#000000">2.67</font></td>
+		<td align="center" sdval="12.92" sdnum="4105;0;0.00"><font color="#000000">12.92</font></td>
+		<td align="center" sdval="4.85" sdnum="4105;0;0.00"><font color="#000000">4.85</font></td>
+		<td align="center" sdval="4.85" sdnum="4105;0;0.00"><font color="#000000">4.85</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="1.385" sdnum="4105;0;0.000"><font color="#000000">1.385</font></td>
+		<td align="center" sdval="0.292" sdnum="4105;0;0.000"><font color="#000000">0.292</font></td>
+		<td align="center" sdval="0.15" sdnum="4105;0;0.000"><font color="#000000">0.150</font></td>
+		<td align="center" sdval="2" sdnum="4105;"><font color="#000000">2</font></td>
+		<td align="center" sdval="6" sdnum="4105;"><font color="#000000">6</font></td>
+	</tr>
+	<tr>
+		<td height="17" align="center" sdval="7" sdnum="4105;"><font color="#000000">7</font></td>
+		<td align="left"><font color="#000000">Sam Smith</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="3" sdnum="4105;0;0.00"><font color="#000000">3.00</font></td>
+		<td align="center" sdval="7" sdnum="4105;"><font color="#000000">7</font></td>
+		<td align="center" sdval="2.33" sdnum="4105;0;0.00"><font color="#000000">2.33</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="7" sdnum="4105;0;0.00"><font color="#000000">7.00</font></td>
+		<td align="center" sdval="5" sdnum="4105;"><font color="#000000">5</font></td>
+		<td align="center" sdval="3" sdnum="4105;"><font color="#000000">3</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+		<td align="center" sdval="1.25" sdnum="4105;0;0.00"><font color="#000000">1.25</font></td>
+		<td align="center" sdval="11.67" sdnum="4105;0;0.00"><font color="#000000">11.67</font></td>
+		<td align="center" sdval="9.33" sdnum="4105;0;0.00"><font color="#000000">9.33</font></td>
+		<td align="center" sdval="7" sdnum="4105;0;0.00"><font color="#000000">7.00</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="0" sdnum="4105;"><font color="#000000">0</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="2.333" sdnum="4105;0;0.000"><font color="#000000">2.333</font></td>
+		<td align="center" sdval="0.368" sdnum="4105;0;0.000"><font color="#000000">0.368</font></td>
+		<td align="center" sdval="0.2" sdnum="4105;0;0.000"><font color="#000000">0.200</font></td>
+		<td align="center" sdval="1" sdnum="4105;"><font color="#000000">1</font></td>
+		<td align="center" sdval="4" sdnum="4105;"><font color="#000000">4</font></td>
+	</tr>
+</table>
+<!-- ************************************************************************** -->
+</body>
+
+</html>
